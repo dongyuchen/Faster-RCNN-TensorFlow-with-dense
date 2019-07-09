@@ -7,6 +7,7 @@ To change the classes in the following two places:
 2. demo
 # How To Use This Branch
 To run the program can follow the step of https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3
+
 When you want to use densenet to train the model just change the lib.config.config 'network' as the dense
  
 pre-trained model(densenet121 and densenet161) I have already upload into data/imagenet_weights/
